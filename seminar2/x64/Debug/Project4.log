@@ -1,0 +1,6 @@
+﻿  seminar2.c
+C:\Users\Sergiu\Desktop\Pt github\seminar2\seminar2.c(13,41): warning C4013: 'strlen' undefined; assuming extern returning int
+C:\Users\Sergiu\Desktop\Pt github\seminar2\seminar2.c(14,2): warning C4013: 'strcpy' undefined; assuming extern returning int
+C:\Users\Sergiu\Desktop\Pt github\seminar2\seminar2.c(107,64): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sergiu\Desktop\Pt github\seminar2\seminar2.c(104,19): warning C4133: 'initializing': incompatible types - from 'farmacie *' to 'Farmacie *'
+  Project4.vcxproj -> C:\Users\Sergiu\Desktop\Pt github\seminar2\x64\Debug\Project4.exe
