@@ -1,0 +1,11 @@
+﻿  seminar4.c
+C:\Users\Sergiu\source\repos\Seminar4\seminar4.c(44,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Sergiu\source\repos\Seminar4\seminar4.c(66,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Sergiu\source\repos\Seminar4\seminar4.c(131,8): warning C4022: 'free': pointer mismatch for actual parameter 1
+C:\Users\Sergiu\source\repos\Seminar4\seminar4.c(132,17): warning C4047: '=': 'int' differs in levels of indirection from 'void *'
+C:\Users\Sergiu\source\repos\Seminar4\seminar4.c(143,67): warning C4047: '=': 'Masina **' differs in levels of indirection from 'Masina *'
+C:\Users\Sergiu\source\repos\Seminar4\seminar4.c(160,28): warning C4047: 'function': 'Masina **' differs in levels of indirection from 'Masina ***'
+C:\Users\Sergiu\source\repos\Seminar4\seminar4.c(160,20): warning C4024: 'dezalocareMatrice': different types for formal and actual parameter 1
+C:\Users\Sergiu\source\repos\Seminar4\seminar4.c(160,45): warning C4047: 'function': 'int *' differs in levels of indirection from 'int **'
+C:\Users\Sergiu\source\repos\Seminar4\seminar4.c(160,39): warning C4024: 'dezalocareMatrice': different types for formal and actual parameter 3
+  Seminar4.vcxproj -> C:\Users\Sergiu\source\repos\Seminar4\x64\Debug\Seminar4.exe
