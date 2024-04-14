@@ -1,0 +1,5 @@
+﻿  seminar8.c
+C:\Users\firep\OneDrive\Desktop\GITHUB PROIECTE\seminar8\seminar8.c(26,28): warning C4013: 'strlen' undefined; assuming extern returning int
+C:\Users\firep\OneDrive\Desktop\GITHUB PROIECTE\seminar8\seminar8.c(27,2): warning C4013: 'strcpy' undefined; assuming extern returning int
+C:\Users\firep\OneDrive\Desktop\GITHUB PROIECTE\seminar8\seminar8.c(91): warning C4715: 'extragereMax': not all control paths return a value
+  seminar8.vcxproj -> C:\Users\firep\OneDrive\Desktop\GITHUB PROIECTE\seminar8\x64\Debug\seminar8.exe
